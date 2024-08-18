@@ -4,6 +4,7 @@ I plan to complete:
 
  - [ ] Relational Databases
  - [ ] Data Analysis with Python
+ - [ ] Responsive Web Design
  - [ ] Backend Development and APIs
  - [ ] Information Security
 
