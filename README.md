@@ -11,3 +11,6 @@ I plan to complete:
 Other Projects I had in mind:
 
  - [ ] assorted practice projects to learn data structures and algorithms and other concepts using Go and Python
+ - [ ] some practice web apps, maybe design a handful of web pages
+ - [ ] learn about internet protocols such as TCP, HTTP, TLS and other networking concepts
+ - [ ] learn about APIs and how to make one
