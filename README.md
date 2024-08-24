@@ -8,3 +8,6 @@ I plan to complete:
  - [ ] Backend Development and APIs
  - [ ] Information Security
 
+Other Projects I had in mind:
+
+ - [ ] assorted practice projects to learn data structures and algorithms and other concepts using Go and Python
